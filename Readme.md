@@ -58,4 +58,10 @@ Before you start writing code you must have idea of what you are doing, what you
 </details>
 
 
+What is NFT ?
 
+What is Oracals ?
+
+What is ChainLink ?
+
+What is Avalanche Network ?
