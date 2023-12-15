@@ -47,8 +47,10 @@ Before you start writing code, you must have an idea of what you are doing, what
 <summary>What the heck is Ethereum?</summary>
 
 - [What is Ethereum](https://aws.amazon.com/blockchain/what-is-ethereum/)
+- [Ethereum WhitePaper](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf)
 - [How Does Proof of Stake Work?](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/how-does-proof-of-stake-work)
 - [What is Gas in Ethereum (Transaction fee)?](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a)
+- [What EVM(Ethereum Virtual Machine)?](https://ethereum.org/en/developers/docs/evm/)
 </details>
 
 What is NFT?
@@ -61,8 +63,10 @@ What is Avalanche Network?
 
 What is Solana?
 
+[What is a crypto wallet? Is it similar to a password manager?](https://www.coinbase.com/en-gb/learn/crypto-basics/what-is-a-crypto-wallet)
+
 ## Learning Solidity
-Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
+Solidity is a statically-typed programming language designed for developing smart contracts that run on Ethereum.
 
 [Crypto Zombies](https://cryptozombies.io/en/solidity) is a great website for learning Solidity with hands-on experience. [Solving Video](https://www.youtube.com/watch?v=ERAxd8gl1Eg&t=7079s). I suggest you do it by yourself and watch this video too(2-3 min of each chapter, then you start doing it by yourself) because in this video, he is comparing game concepts with real-world scenarios.
 
