@@ -57,7 +57,6 @@ Before you start writing code you must have idea of what you are doing, what you
 - [What is Gas in Ethereum (Transaction fee) ?](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a)
 </details>
 
-
 What is NFT ?
 
 What is Oracals ?
@@ -65,3 +64,13 @@ What is Oracals ?
 What is ChainLink ?
 
 What is Avalanche Network ?
+
+What is solana ?
+
+## Learning Solidity
+Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum
+
+[Crypto Zombies](https://cryptozombies.io/en/solidity) is great website for you learn solidity with hands on experience. 
+
+
+
