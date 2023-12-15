@@ -65,10 +65,14 @@ What is Solana?
 
 [What is a crypto wallet? Is it similar to a password manager?](https://www.coinbase.com/en-gb/learn/crypto-basics/what-is-a-crypto-wallet)
 
-## Learning Solidity
+# Learning Solidity
 Solidity is a statically-typed programming language designed for developing smart contracts that run on Ethereum.
 
 [Crypto Zombies](https://cryptozombies.io/en/solidity) is a great website for learning Solidity with hands-on experience. [Solving Video](https://www.youtube.com/watch?v=ERAxd8gl1Eg&t=7079s). I suggest you do it by yourself and watch this video too(2-3 min of each chapter, then you start doing it by yourself) because in this video, he is comparing game concepts with real-world scenarios.
 
 You can find the Solidity Code for Crypto Zombies Chapaters in this repo.
+
+## Solidity Security
+[Solidity Security-CTF](https://ethernaut.openzeppelin.com/) - Learn Solidity Security by playing CTF's.
+
 
