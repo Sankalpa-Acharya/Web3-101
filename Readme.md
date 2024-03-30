@@ -49,7 +49,7 @@ Before you start writing code, you must have an idea of what you are doing, what
 - [What is Ethereum](https://aws.amazon.com/blockchain/what-is-ethereum/)
 - [Ethereum WhitePaper](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf)
 - [How Does Proof of Stake Work?](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/how-does-proof-of-stake-work)
-- [What is Gas in Ethereum (Transaction fee)?](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a)
+- [What is Gas in Ethereum (Transaction fee)?](https://ethereum.org/en/developers/docs/gas/)
 - [What EVM(Ethereum Virtual Machine)?](https://ethereum.org/en/developers/docs/evm/)
 </details>
 
